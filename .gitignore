@@ -29,7 +29,7 @@ yarn-error.log
 /.agents
 /.amp
 /.claude
-/.cursor
+#/.cursor
 /.factory
 /.grok
 /.junie
